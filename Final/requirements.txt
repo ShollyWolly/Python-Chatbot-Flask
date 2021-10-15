@@ -1,0 +1,8 @@
+flask
+nltk
+numpy
+google
+bs4
+requests
+regex
+keras

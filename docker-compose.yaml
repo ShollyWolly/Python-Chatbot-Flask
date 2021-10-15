@@ -1,0 +1,9 @@
+version: "3"
+
+services:  
+  
+  test:
+    build: ./Final
+    container_name: test
+    ports:
+      - "5000:5000"
